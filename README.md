@@ -1,4 +1,4 @@
-###**The (Air Mouse, To Be Decided) Project**
+## **The (Air Mouse, To Be Decided) Project** 
 
 *We began this project with the intention of making an air ring for controlling the interface of a Personal Assistant/ Gemini Wrapper named 'Friday' created by Rohan. Friday and AirMouse are inspired by the interface that is used by Tony Stark in the MCU movies.*
 
